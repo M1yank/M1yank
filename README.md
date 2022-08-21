@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M1yank // Mayank Bansal
-- 🚀 I'm a junior undergrad in Computer Engineering at Thapar Institute of Engineering and Technology 🏫.
+- 🚀 Final year undergrad in Computer Engineering at Thapar Institute of Engineering and Technology 🏫.
 - 👀 I’m interested in Coding and learning new technologies.
 - 🌱 I’m currently learning Data Structures.
 - 📫 Contact me via mbansal1_be19@thapar.edu
