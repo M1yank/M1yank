@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @M1yank // Mayank Bansal
+- 👋 Hi, I’m Mayank Bansal // @M1yank
+- 💼 SDE Intern @IncedoInc.
 - 🚀 Final year undergrad in Computer Engineering at Thapar Institute of Engineering and Technology 🏫.
 - 👀 I’m interested in Coding and learning new technologies.
-- 🌱 I’m currently learning Data Structures.
+- 🌱 I’m currently learning Spark & Data Structures.
 - 📫 Contact me via mbansal1_be19@thapar.edu
 
 <!---
