@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Mayank Bansal // @M1yank
-- 💼 SDE Intern @IncedoInc.
-- 🚀 Final year undergrad in Computer Engineering at Thapar Institute of Engineering and Technology 🏫.
-- 👀 I’m interested in Coding and learning new technologies.
-- 🌱 I’m currently learning Spark & Data Structures.
-- 📫 Contact me via mbansal1_be19@thapar.edu
+- 👋 Hi, I’m Mayank Bansal // @m1yank
+- 💼 SDE @IncedoInc.
+- 🚀 Graduated from Thapar Institute of Engineering and Technology with a Backelor's degree in Computer Engineering 🏫.
+- 👀 I’m interested in Generative AI and DevOps.
+- 🌱 Always Eager to learn new technologies.
+- 📫 Contact me via mayank.bansal16901@gmail.com
 
 <!---
 M1yank/M1yank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
